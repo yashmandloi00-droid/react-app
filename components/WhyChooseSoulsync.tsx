@@ -42,8 +42,8 @@ export default function WhyChooseSoulsync() {
                   Simple to Use
                 </h3>
                 <p className="text-gray-700 text-base lg:text-lg leading-relaxed">
-                  Soulsync is very easy to use just choose your and your partner's
-                  gender, age, and location, and you're all set!
+                  Soulsync is very easy to use just choose your and your partner&apos;s
+                  gender, age, and location, and you&apos;re all set!
                 </p>
               </div>
 
@@ -54,7 +54,7 @@ export default function WhyChooseSoulsync() {
                 </h3>
                 <p className="text-gray-700 text-base lg:text-lg leading-relaxed">
                   Besides being #1 dating service, we have a supportive and
-                  understanding community that's always ready to help.
+                  understanding community that&apos;s always ready to help.
                 </p>
               </div>
             </div>

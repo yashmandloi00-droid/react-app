@@ -128,7 +128,7 @@ export default function Testimonials() {
           <div className="relative">
             {/* Large Quote Icon - Centered */}
             <div className="text-primary text-[120px] lg:text-[180px] font-serif leading-none mb-4 flex justify-center lg:justify-start">
-              "
+              &quot;
             </div>
 
             <div className="relative z-10 -mt-12 lg:-mt-16 pt-12 lg:pt-16">

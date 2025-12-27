@@ -284,9 +284,9 @@ export default function FeaturesPage() {
                   className="appearance-none bg-white border-2 border-primary text-[#001F54] font-medium py-2 px-4 pr-8 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary cursor-pointer"
                 >
                   <option>Height</option>
-                  <option>5'0" - 5'5"</option>
-                  <option>5'6" - 5'11"</option>
-                  <option>6'0" - 6'5"</option>
+                  <option>5&apos;0&quot; - 5&apos;5&quot;</option>
+                  <option>5&apos;6&quot; - 5&apos;11&quot;</option>
+                  <option>6&apos;0&quot; - 6&apos;5&quot;</option>
                   <option>All</option>
                 </select>
                 <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2">
